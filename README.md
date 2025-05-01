@@ -3,7 +3,7 @@
 Savtoa Software Technologies | Oct (2024) - Present
 - 🌱 Working on an android app developement as a personal side project
 - 💞️Interested in Embedded System and IoT related projects.
-- 📫 [you can reach me at ](https://www.linkedin.com/in/abdul-khalam-azad/)
+- 📫 [LinkedIn](https://www.linkedin.com/in/abdul-khalam-azad/)
 
 <p align="left">
 </p>
