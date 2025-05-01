@@ -28,11 +28,11 @@ Savtoa Software Technologies | Oct (2024) - Present
   <img src="https://img.shields.io/badge/-75%25-blue?style=for-the-badge" alt="Arduino 75%" hspace="10"/>
   <img src="https://img.shields.io/badge/-70%25-lightgrey?style=for-the-badge" alt="C 70%" hspace="10"/>
   <img src="https://img.shields.io/badge/-50%25-yellow?style=for-the-badge" alt="C++ 50%" hspace="10"/>
-  <img src="https://img.shields.io/badge/-60%25-orange?style=for-the-badge" alt="Git 60%" hspace="10"/>
-  <img src="https://img.shields.io/badge/-80%25-purple?style=for-the-badge" alt="Kotlin 80%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-30%25-orange?style=for-the-badge" alt="Git 30%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-40%25-purple?style=for-the-badge" alt="Kotlin 40%" hspace="10"/>
   <img src="https://img.shields.io/badge/-50%25-red?style=for-the-badge" alt="Linux 50%" hspace="10"/>
   <img src="https://img.shields.io/badge/-85%25-green?style=for-the-badge" alt="Python 85%" hspace="10"/>
-  <img src="https://img.shields.io/badge/-55%25-blue?style=for-the-badge" alt="SQLite 55%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-50%25-blue?style=for-the-badge" alt="SQLite 50%" hspace="10"/>
 </p>
 
 
