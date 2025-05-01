@@ -1,6 +1,6 @@
 ## Hi, I'm Abdul Khalam Azad ✨
 **Firmware Engineer**
-Savtoa Software Technologies | Oct (2024) - Present
+| Savtoa Software Technologies | Oct (2024) - Present
 - 🌱 Working on an android app developement as a personal side project
 - 💞️Interested in Embedded System and IoT related projects.
 - 📫 [LinkedIn](https://www.linkedin.com/in/abdul-khalam-azad/)
