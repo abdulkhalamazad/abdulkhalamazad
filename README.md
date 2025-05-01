@@ -25,7 +25,7 @@ Savtoa Software Technologies | Oct (2024) - Present
 
 <p align="left">
   <!-- Row of progress badges -->
-  <img src="https://img.shields.io/badge/Arduino-75%25-blue?style=flat-square" alt="Arduino 75% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/Arduino-75%25-blue?style=flat-square" alt="75% proficiency" hspace="10"/>
   <img src="https://img.shields.io/badge/C-70%25-lightgrey?style=flat-square" alt="C 70% proficiency" hspace="10"/>
   <img src="https://img.shields.io/badge/C%2B%2B-65%25-yellow?style=flat-square" alt="C++ 65% proficiency" hspace="10"/>
   <img src="https://img.shields.io/badge/Git-60%25-orange?style=flat-square" alt="Git 60% proficiency" hspace="10"/>
