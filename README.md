@@ -23,6 +23,18 @@ Savtoa Software Technologies | Oct (2024) - Present
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" hspace="10"/>
 </p>
 
+<p align="left">
+  <!-- Row of progress badges -->
+  <img src="https://img.shields.io/badge/Arduino-75%25-blue?style=flat-square" alt="Arduino 75% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/C-70%25-lightgrey?style=flat-square" alt="C 70% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-65%25-yellow?style=flat-square" alt="C++ 65% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/Git-60%25-orange?style=flat-square" alt="Git 60% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/Kotlin-80%25-purple?style=flat-square" alt="Kotlin 80% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/Linux-50%25-red?style=flat-square" alt="Linux 50% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/Python-85%25-green?style=flat-square" alt="Python 85% proficiency" hspace="10"/>
+  <img src="https://img.shields.io/badge/SQLite-55%25-blue?style=flat-square" alt="SQLite 55% proficiency" hspace="10"/>
+</p>
+
 
 <!---
 abdulkhalamazad/abdulkhalamazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
