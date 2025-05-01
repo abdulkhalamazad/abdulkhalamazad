@@ -27,7 +27,7 @@ Savtoa Software Technologies | Oct (2024) - Present
   <!-- Progress-bar badges (rounded, label-free) -->
   <img src="https://img.shields.io/badge/-75%25-blue?style=for-the-badge" alt="Arduino 75%" hspace="10"/>
   <img src="https://img.shields.io/badge/-70%25-lightgrey?style=for-the-badge" alt="C 70%" hspace="10"/>
-  <img src="https://img.shields.io/badge/-65%25-yellow?style=for-the-badge" alt="C++ 65%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-50%25-yellow?style=for-the-badge" alt="C++ 50%" hspace="10"/>
   <img src="https://img.shields.io/badge/-60%25-orange?style=for-the-badge" alt="Git 60%" hspace="10"/>
   <img src="https://img.shields.io/badge/-80%25-purple?style=for-the-badge" alt="Kotlin 80%" hspace="10"/>
   <img src="https://img.shields.io/badge/-50%25-red?style=for-the-badge" alt="Linux 50%" hspace="10"/>
