@@ -24,15 +24,15 @@ Savtoa Software Technologies | Oct (2024) - Present
 </p>
 
 <p align="left">
-  <!-- Row of progress badges -->
-  <img src="https://img.shields.io/badge/Arduino-75%25-blue?style=flat-square" alt="75% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/C-70%25-lightgrey?style=flat-square" alt="C 70% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-65%25-yellow?style=flat-square" alt="C++ 65% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/Git-60%25-orange?style=flat-square" alt="Git 60% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/Kotlin-80%25-purple?style=flat-square" alt="Kotlin 80% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/Linux-50%25-red?style=flat-square" alt="Linux 50% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/Python-85%25-green?style=flat-square" alt="Python 85% proficiency" hspace="10"/>
-  <img src="https://img.shields.io/badge/SQLite-55%25-blue?style=flat-square" alt="SQLite 55% proficiency" hspace="10"/>
+  <!-- Progress-bar badges (rounded, label-free) -->
+  <img src="https://img.shields.io/badge/-75%25-blue?style=for-the-badge" alt="Arduino 75%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-70%25-lightgrey?style=for-the-badge" alt="C 70%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-65%25-yellow?style=for-the-badge" alt="C++ 65%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-60%25-orange?style=for-the-badge" alt="Git 60%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-80%25-purple?style=for-the-badge" alt="Kotlin 80%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-50%25-red?style=for-the-badge" alt="Linux 50%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-85%25-green?style=for-the-badge" alt="Python 85%" hspace="10"/>
+  <img src="https://img.shields.io/badge/-55%25-blue?style=for-the-badge" alt="SQLite 55%" hspace="10"/>
 </p>
 
 
